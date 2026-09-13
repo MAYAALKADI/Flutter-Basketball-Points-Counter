@@ -1,0 +1,4 @@
+# تجاهل المجلدات التي تحتوي على C++ عند حساب لغة المشروع
+windows/* linguist-vendored
+linux/* linguist-vendored
+macos/* linguist-vendored
